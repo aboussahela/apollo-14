@@ -1,0 +1,1 @@
+insert into table values (1, "Djamel", 28)
